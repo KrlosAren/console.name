@@ -1,4 +1,4 @@
-# Project Title
+# Console.name
 
 Its a Simple script to print names random in console.
 
