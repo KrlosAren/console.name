@@ -1,6 +1,6 @@
 {
   "name": "console.name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "scripts to create a random messages",
   "main": "./src/index.js",
   "scripts": {
