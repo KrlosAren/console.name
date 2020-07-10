@@ -1,6 +1,6 @@
 {
   "name": "console.name",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Its a Simple script to print names random in console.",
   "main": "./src/index.js",
   "scripts": {
